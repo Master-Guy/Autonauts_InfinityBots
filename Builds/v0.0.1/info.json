@@ -1,0 +1,11 @@
+﻿{
+  "Id": "InfiniteBots",
+  "DisplayName": "InfiniteBots",
+  "Author": "Master-Guy",
+  "Version": "1.0.0",
+  "AssemblyName": "InfiniteBots.dll",
+  "EntryMethod": "InfiniteBots.Main.Load",
+  "GameVersion": "132.12",
+  "Description": "Gives you the maximum amount of script available. Adding +1 t to the script size could result in overflow errors.",
+  "HomePage": "https://github.com/Master-Guy/Autonauts_InfinityBots",
+}
